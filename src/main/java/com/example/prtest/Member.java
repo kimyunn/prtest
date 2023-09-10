@@ -1,2 +1,8 @@
-package com.example.prtest;public class Member {
+package com.example.prtest;
+
+public class Member {
+    private String name;
 }
+
+
+
